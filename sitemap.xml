@@ -3,24 +3,32 @@
 
     
     <url>
-     <loc>http://katzkawai.github.io/mkdocs03//</loc>
-     <lastmod>2016-06-05</lastmod>
+     <loc>http://ochi-taku.github.io/mkdocs03//</loc>
+     <lastmod>2016-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>http://katzkawai.github.io/mkdocs03//about/</loc>
-     <lastmod>2016-06-05</lastmod>
+     <loc>http://ochi-taku.github.io/mkdocs03//about/</loc>
+     <lastmod>2016-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>http://katzkawai.github.io/mkdocs03//samples/</loc>
-     <lastmod>2016-06-05</lastmod>
+     <loc>http://ochi-taku.github.io/mkdocs03//profile/</loc>
+     <lastmod>2016-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://ochi-taku.github.io/mkdocs03//samples/</loc>
+     <lastmod>2016-06-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
